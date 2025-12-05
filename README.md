@@ -105,12 +105,8 @@ KPI Cards:
 -- **✔️ DAX Measures** – KPIs and Calculated Fields
 -- **✔️ Excel/CSV**  – Dataset
 
-## 👩‍💻 Author
-
-Shilpa Dash
-
-📧 Email
-💼 LinkedIn
-🖥 GitHub
-
-
+## 👩‍💻 Author  
+**Shilpa Dash**  
+- 📧 [Email](dashshilpa966@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shilpadash)  
+- 🖥 [GitHub](https://github.com/shilpa-dash) 
