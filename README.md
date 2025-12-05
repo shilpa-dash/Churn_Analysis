@@ -1,5 +1,6 @@
-📊 Telecom Customer Churn Analysis
-📝 Overview
+📊 *Telecom Customer Churn Analysis*
+
+📝 *Overview*
 
 This project analyzes customer churn for a telecom company using SQL Server for data preparation and Power BI for visualization. The objective is to identify key churn patterns, customer segments at risk, and factors influencing churn to support business retention strategies.
 
@@ -20,7 +21,7 @@ Dataset Size – 7,000+ customer records
 ✔ Created reusable SQL views for Power BI import
 ✔ Performed exploratory data checks before reporting
 
-📈 Dashboard Highlights
+📈 *Dashboard Highlights*
 
 The dashboard provides:
 
@@ -48,14 +49,15 @@ Services Used
 
 Geographical Regions
 
-⭐ Key Insights
+⭐* Key Insights*
 
 🔹 Overall churn rate was 27%
 🔹 Highest churn observed in month-to-month contracts
 🔹 Churn varied significantly across age groups and regions
 🔹 Customers with shorter tenure showed higher churn probability
 🔹 Service usage patterns helped highlight areas for cross-selling and retention
-🎯 Business Impact
+
+🎯 *Business Impact*
 
 This project enables telecom teams to:
 
