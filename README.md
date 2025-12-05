@@ -51,7 +51,7 @@ The dataset contains customer information with the following attributes:
 
 -- 📦 Total Records: 7,000+ customers
 
-**📈 Dashboard Features**
+## 📈 Dashboard Features
 KPI Cards:
 
 -- Total Customers
@@ -74,37 +74,38 @@ KPI Cards:
 
 Filters: Contract, Location, Services, Tenure
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
 
 Add screenshots after uploading 👍
 
-🎯 Key Insights
+## 🎯 Key Insights
 
-Churn Rate: ~27%
+-- **Churn Rate:** ~27%
 
-Contract Type: Month-to-month customers churned the most
+-- **Contract Type:** Month-to-month customers churned the most
 
-Tenure: Short tenure customers showed the highest churn
+-- **Tenure:** Short tenure customers showed the highest churn
 
-Payment Method: Certain payment modes were more prone to churn
+-- **Payment Method:** Certain payment modes were more prone to churn
 
-Service Usage: Service combinations influenced churn behaviour
+-- **Service Usage:** Service combinations influenced churn behaviour
+---
 
-💡 Business Impact
+## 💡 Business Impact
 
 📍 Retention Strategy – Identified high-risk customer groups for proactive retention
 💳 Contract Optimization – Insights support movement toward longer contracts
 📈 Revenue Protection – Reducing churn directly protects recurring revenue
 🧩 Targeted Offers – Personalized retention offers based on tenure & services
 
-🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 
-✔️ SQL Server – Data Cleaning, Null Handling, View Creation
-✔️ Power BI – Dashboard & Visualizations
-✔️ DAX Measures – KPIs and Calculated Fields
-✔️ Excel/CSV – Dataset
+-- **✔️ SQL Server** – Data Cleaning, Null Handling, View Creation
+-- **✔️ Power BI** – Dashboard & Visualizations
+-- **✔️ DAX Measures** – KPIs and Calculated Fields
+-- **✔️ Excel/CSV**  – Dataset
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Shilpa Dash
 
