@@ -1,78 +1,115 @@
-📊 *Telecom Customer Churn Analysis*
+# 📞 Telecom Customer Churn Dashboard
 
-📝 *Overview*
+## 🛑 Business Problem
 
-This project analyzes customer churn for a telecom company using SQL Server for data preparation and Power BI for visualization. The objective is to identify key churn patterns, customer segments at risk, and factors influencing churn to support business retention strategies.
+Telecom companies lose a significant number of customers every month due to churn.
+Without proper analytics, it becomes difficult for management to:
 
-⚙️ Tech Stack
+-- Identify which customer segments are most likely to churn
 
-SQL Server – Data Cleaning, Views, Data Exploration
+-- Understand patterns across contract types, tenure, age group, and services
 
-Power BI – Dashboard & Visualizations
+-- Take proactive actions to retain high-value customers
 
-DAX – Measures, KPIs, Filters
+-- Reduce revenue loss with data-driven decisions
 
-Dataset Size – 7,000+ customer records
+## 📊 Project Overview
 
-🔧 Data Preparation (SQL)
+This project presents an interactive Telecom Churn Analysis Dashboard created using Power BI, with data cleaned and transformed using SQL Server.
 
-✔ Removed NULL and inconsistent values
-✔ Standardized categorical fields
-✔ Created reusable SQL views for Power BI import
-✔ Performed exploratory data checks before reporting
+The dashboard highlights churn patterns, customer behaviour, and retention opportunities to help management make informed decisions.
 
-📈 *Dashboard Highlights*
+**Key highlights:**
 
-The dashboard provides:
+-- Total Customers, New Joiners, Churn Count, Churn Rate
 
-Total Customers
+-- Segmentation by Gender, Age Group, Location, Contract Type
 
-New Joiners
+-- Tenure analysis for churn prediction
 
-Total Churn
+-- Payment method and service usage patterns
 
-Churn Rate (%)
+-- Interactive slicers for demographic and service filtering
 
-Segmentation by:
+## 📂 Dataset Information
 
-Gender
+The dataset contains customer information with the following attributes:
 
-Age Group
+-- Customer ID
 
-Contract Type
+-- Gender, Age Group, Location
 
-Tenure
+-- Service Subscriptions (Internet, Phone, Streaming, etc.)
 
-Payment Method
+-- Contract Type (Month-to-Month, One-Year, Two-Year)
 
-Services Used
+-- Tenure (Duration with company)
 
-Geographical Regions
+-- Payment Method
 
-⭐* Key Insights*
+-- Churn Flag (Yes/No)
 
-🔹 Overall churn rate was 27%
-🔹 Highest churn observed in month-to-month contracts
-🔹 Churn varied significantly across age groups and regions
-🔹 Customers with shorter tenure showed higher churn probability
-🔹 Service usage patterns helped highlight areas for cross-selling and retention
+-- 📦 Total Records: 7,000+ customers
 
-🎯 *Business Impact*
+**📈 Dashboard Features**
+KPI Cards:
 
-This project enables telecom teams to:
+-- Total Customers
 
-Identify high-risk customer segments
+-- New Joiners
 
-Improve retention strategies
+-- Total Churn
 
-Reduce churn using targeted interventions
+-- Churn Rate (%)
 
-Understand which services and demographics influence churn
+**Visuals:**
 
-🚀 Future Enhancements
+-- Bar/Column charts: Churn by Contract Type, Age Group, Tenure
 
-Predict churn using ML classification model
+-- Pie/Donut charts: Gender, Services Subscribed
 
-Add real-time refresh for dashboards
+-- Line chart: Tenure vs. Churn
 
-Integrate recommendation engine for retention
+-- Matrix view: Payment Method vs Churn
+
+Filters: Contract, Location, Services, Tenure
+
+📸 Dashboard Preview
+
+Add screenshots after uploading 👍
+
+🎯 Key Insights
+
+Churn Rate: ~27%
+
+Contract Type: Month-to-month customers churned the most
+
+Tenure: Short tenure customers showed the highest churn
+
+Payment Method: Certain payment modes were more prone to churn
+
+Service Usage: Service combinations influenced churn behaviour
+
+💡 Business Impact
+
+📍 Retention Strategy – Identified high-risk customer groups for proactive retention
+💳 Contract Optimization – Insights support movement toward longer contracts
+📈 Revenue Protection – Reducing churn directly protects recurring revenue
+🧩 Targeted Offers – Personalized retention offers based on tenure & services
+
+🛠 Tools & Technologies Used
+
+✔️ SQL Server – Data Cleaning, Null Handling, View Creation
+✔️ Power BI – Dashboard & Visualizations
+✔️ DAX Measures – KPIs and Calculated Fields
+✔️ Excel/CSV – Dataset
+
+👩‍💻 Author
+
+Shilpa Dash
+
+📧 Email
+💼 LinkedIn
+🖥 GitHubv
+
+
