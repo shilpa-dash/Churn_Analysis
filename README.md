@@ -72,7 +72,7 @@ KPI Cards:
 
 -- Matrix view: Payment Method vs Churn
 
-Filters: Contract, Location, Services, Tenure
+-- Filters: Contract, Location, Services, Tenure
 
 ## 📸 Dashboard Preview
 
@@ -89,14 +89,14 @@ Add screenshots after uploading 👍
 -- **Payment Method:** Certain payment modes were more prone to churn
 
 -- **Service Usage:** Service combinations influenced churn behaviour
----
+
 
 ## 💡 Business Impact
 
-📍 Retention Strategy – Identified high-risk customer groups for proactive retention
-💳 Contract Optimization – Insights support movement toward longer contracts
-📈 Revenue Protection – Reducing churn directly protects recurring revenue
-🧩 Targeted Offers – Personalized retention offers based on tenure & services
+-- **📍 Retention Strategy**– Identified high-risk customer groups for proactive retention
+-- **💳 Contract Optimization** – Insights support movement toward longer contracts
+-- **📈 Revenue Protection** – Reducing churn directly protects recurring revenue
+-- **🧩 Targeted Offers** – Personalized retention offers based on tenure & services
 
 ## 🛠 Tools & Technologies Used
 
@@ -111,6 +111,6 @@ Shilpa Dash
 
 📧 Email
 💼 LinkedIn
-🖥 GitHubv
+🖥 GitHub
 
 
