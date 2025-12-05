@@ -76,7 +76,7 @@ KPI Cards:
 
 ## 📸 Dashboard Preview
 
-Add screenshots after uploading 👍
+![Customer_Churn Dashboard]("C:\Users\SHLIPA\Pictures\Screenshots\Screenshot 2025-12-05 164255.png")  
 
 ## 🎯 Key Insights
 
