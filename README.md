@@ -93,17 +93,18 @@ KPI Cards:
 
 ## 💡 Business Impact
 
--- **📍 Retention Strategy**– Identified high-risk customer groups for proactive retention
--- **💳 Contract Optimization** – Insights support movement toward longer contracts
--- **📈 Revenue Protection** – Reducing churn directly protects recurring revenue
--- **🧩 Targeted Offers** – Personalized retention offers based on tenure & services
+- **📍 Retention Strategy** – Identified high-risk customer groups for proactive retention  
+- **💳 Contract Optimization** – Insights support movement toward longer contracts  
+- **📈 Revenue Protection** – Reducing churn directly protects recurring revenue  
+- **🧩 Targeted Offers** – Personalized retention offers based on tenure & services  
 
 ## 🛠 Tools & Technologies Used
 
--- **✔️ SQL Server** – Data Cleaning, Null Handling, View Creation
--- **✔️ Power BI** – Dashboard & Visualizations
--- **✔️ DAX Measures** – KPIs and Calculated Fields
--- **✔️ Excel/CSV**  – Dataset
+- **✔️ SQL Server** – Data Cleaning, Null Handling, View Creation  
+- **✔️ Power BI** – Dashboard & Visualizations  
+- **✔️ DAX Measures** – KPIs and Calculated Fields  
+- **✔️ Excel/CSV** – Dataset  
+
 
 ## 👩‍💻 Author  
 **Shilpa Dash**  
