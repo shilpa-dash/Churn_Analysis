@@ -5,13 +5,13 @@
 Telecom companies lose a significant number of customers every month due to churn.
 Without proper analytics, it becomes difficult for management to:
 
--- Identify which customer segments are most likely to churn
+- Identify which customer segments are most likely to churn
 
--- Understand patterns across contract types, tenure, age group, and services
+- Understand patterns across contract types, tenure, age group, and services
 
--- Take proactive actions to retain high-value customers
+- Take proactive actions to retain high-value customers
 
--- Reduce revenue loss with data-driven decisions
+- Reduce revenue loss with data-driven decisions
 
 ## 📊 Project Overview
 
@@ -21,58 +21,58 @@ The dashboard highlights churn patterns, customer behaviour, and retention oppor
 
 **Key highlights:**
 
--- Total Customers, New Joiners, Churn Count, Churn Rate
+- Total Customers, New Joiners, Churn Count, Churn Rate
 
--- Segmentation by Gender, Age Group, Location, Contract Type
+- Segmentation by Gender, Age Group, Location, Contract Type
 
--- Tenure analysis for churn prediction
+- Tenure analysis for churn prediction
 
--- Payment method and service usage patterns
+- Payment method and service usage patterns
 
--- Interactive slicers for demographic and service filtering
+- Interactive slicers for demographic and service filtering
 
 ## 📂 Dataset Information
 
 The dataset contains customer information with the following attributes:
 
--- Customer ID
+- Customer ID
 
--- Gender, Age Group, Location
+- Gender, Age Group, Location
 
--- Service Subscriptions (Internet, Phone, Streaming, etc.)
+- Service Subscriptions (Internet, Phone, Streaming, etc.)
 
--- Contract Type (Month-to-Month, One-Year, Two-Year)
+- Contract Type (Month-to-Month, One-Year, Two-Year)
 
--- Tenure (Duration with company)
+- Tenure (Duration with company)
 
--- Payment Method
+- Payment Method
 
--- Churn Flag (Yes/No)
+- Churn Flag (Yes/No)
 
--- 📦 Total Records: 7,000+ customers
+- 📦 Total Records: 7,000+ customers
 
 ## 📈 Dashboard Features
 KPI Cards:
 
--- Total Customers
+- Total Customers
 
--- New Joiners
+- New Joiners
 
--- Total Churn
+- Total Churn
 
--- Churn Rate (%)
+- Churn Rate (%)
 
 **Visuals:**
 
--- Bar/Column charts: Churn by Contract Type, Age Group, Tenure
+- Bar/Column charts: Churn by Contract Type, Age Group, Tenure
 
--- Pie/Donut charts: Gender, Services Subscribed
+- Pie/Donut charts: Gender, Services Subscribed
 
--- Line chart: Tenure vs. Churn
+- Line chart: Tenure vs. Churn
 
--- Matrix view: Payment Method vs Churn
+- Matrix view: Payment Method vs Churn
 
--- Filters: Contract, Location, Services, Tenure
+- Filters: Contract, Location, Services, Tenure
 
 ## 📸 Dashboard Preview
 
