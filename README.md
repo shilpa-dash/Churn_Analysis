@@ -80,15 +80,15 @@ KPI Cards:
 
 ## 🎯 Key Insights
 
--- **Churn Rate:** ~27%
+- **Churn Rate:** ~27%
 
--- **Contract Type:** Month-to-month customers churned the most
+- **Contract Type:** Month-to-month customers churned the most
 
--- **Tenure:** Short tenure customers showed the highest churn
+- **Tenure:** Short tenure customers showed the highest churn
 
--- **Payment Method:** Certain payment modes were more prone to churn
+- **Payment Method:** Certain payment modes were more prone to churn
 
--- **Service Usage:** Service combinations influenced churn behaviour
+- **Service Usage:** Service combinations influenced churn behaviour
 
 
 ## 💡 Business Impact
