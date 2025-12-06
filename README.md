@@ -76,7 +76,7 @@ KPI Cards:
 
 ## 📸 Dashboard Preview
 
-![Customer_Churn Dashboard]("churn_analysis folder/Image/Churn_report.png")  
+![Customer_Churn Dashboard](["churn_analysis folder/Image/Churn_report.png"](https://github.com/shilpa-dash/Churn_Analysis/blob/main/churn_analysis%20folder/Image/Churn_report.png?raw=true))  
 
 ## 🎯 Key Insights
 
